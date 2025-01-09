@@ -84,14 +84,8 @@ This example ensures the presence of a file with specified contents on the targe
 
 ## Contributing
 
- To contribute:
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes and open a pull request.
-
-Please ensure all scripts and configurations are tested and adhere to PowerShell best practices.
+JOR
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+GNU V3
